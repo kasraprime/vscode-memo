@@ -28,6 +28,8 @@ export const otherExts = [
   'pptx',
   'pdf',
   'pages',
+  'numbers',
+  'key',
   'mp4',
   'mov',
   'wmv',
